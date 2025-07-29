@@ -79,7 +79,7 @@ The repository is organized as follows:
 Explore the interactive dashboard and review the detailed project report:
 
 * **[Click Here to View Live Tableau Dashboard](https://public.tableau.com/app/profile/marcelo.somma/viz/COVID-19DataTrendAnalysis/COVID-19Dashboard)**
-* **[Click Here to Read the Full Project Report (PDF)](LINK_TO_PDF_IN_YOUR_GITHUB_REPO_HERE)**
+* **[Click Here to Read the Full Project Report (PDF)](https://github.com/MarceloSomma/public_health_data_analysis_covid_19/blob/main/report/Public%20Health%20Data%20Trend%20Analysis%20(COVID-19)%20Report.pdf)**
 
 ---
 
